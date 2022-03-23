@@ -47,4 +47,5 @@ property values to verify intersections, containment, and adjacency with like na
 
 ---
 ## Custom UI Repository URL and Image Snapshot  ##
+[Rectangle Fury Repository](https://github.com/Russell1127/Rectangle-Fury "Rectangle Fury UI")
 ![Custom UI for Project](../../../resources/Rectangle-Fury-UI.png)
